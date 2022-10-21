@@ -51,7 +51,7 @@ li {
 }
 
 .image {
-background-image: url("/images/ProfilePic.png");
+background-image: url("images/ProfilePic.png");
 background-size: cover;
 width: 600px;
 height: 400px; 
